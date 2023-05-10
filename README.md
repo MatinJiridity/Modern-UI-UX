@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Modern UI UX website with react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live: 
 
 ## Available Scripts
 
